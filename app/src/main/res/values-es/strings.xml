@@ -3,6 +3,9 @@
     <string name="app_title">Campus Connect</string>
     <string name="app_subtitle">Recursos para estudiantes internacionales</string>
 
+    <string name="resources_section_header">Recursos del Campus</string>
+    <string name="name_categoy_lable">Categoría %1$s</string>
+
     <!--    Start of A  block of data-->
     <string name="resource_intl_office_name">OFICINA PARA ESTUDIANTES</string>
     <string name="resource_intl_office_category">Asesoria</string>
@@ -19,4 +22,18 @@
 
     <string name="last_updated_label">Ultima actualizacion: %1$s</string>
     <string name="hours_label">Horario: %1$s</string>
+
+    <string name="content_desc_resource_card">%1$s , %2$s , horario %3$s</string>
+
+    <string name="updated_short_label">Actualizado %1$s</string>
+    <string name="fee_label">Tarifa: %1$s</string>
+    <string name="capacity_label">Capacidad: %1$s personas</string>
+
+
+    <plurals name="review_count">
+        <item quantity="one">%d reseña</item>
+        <item quantity="many">%d reseñas</item>
+        <item quantity="other">%d reseñas</item>
+    </plurals>
+
 </resources>
